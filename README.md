@@ -1,2 +1,2 @@
 # MyAwesomeCart2
-this is an amzing e commerce application
+this is an amzing application
